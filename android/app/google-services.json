@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "490209482416",
+    "project_id": "read-books-online-ce221",
+    "storage_bucket": "read-books-online-ce221.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490209482416:android:f603a74fa4a8a308c38d75",
+        "android_client_info": {
+          "package_name": "com.example.read_books_online"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8WUx3cvJ8TgcsbRbZi9DmR2KHG4QMGwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
